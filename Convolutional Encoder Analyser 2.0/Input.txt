@@ -1,0 +1,16 @@
+ 1; 0; A; 1; 5; 0; 0; 1; 0; 1; 1; 0; 0; 0; 1; 0; 1; 1; 0; 0; 0; 1; 0; 1; 0;
+
+WARNING: CHANGING THE FORMAT MIGHT RESULT IN AN ERROR!
+	IF YOU DON'T UNDERSTAND THE INSTRUCTIONS BELOW,
+	CHANGE ONLY THE PRE-EXISTING VALUES ABOVE.
+
+
+Guide:
+	1. Enter your input in binary 1's and 0's.
+	2. Seperate each digit with a ';'.
+	3. You may enter more than nine digits, however only the first nine will be used.
+	4. The input should be the first thing in this text file.
+
+-----
+Paul J. Aru
+© 2018
