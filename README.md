@@ -18,7 +18,7 @@
 
 ## 📌 Noteworthy Files
 
-- [`Main`](/Convolutional Encoder Analyser 2.0/Main.cpp) - **The Entry Point and file that contains Majority of the Code. Handles User Interaction in a Console.**
+- [`Main`](/Convolutional%20Encoder%20Analyser%202.0/Main.cpp) - **The Entry Point and file that contains Majority of the Code. Handles User Interaction in a Console.**
 - [`EncoderProgram`](/Convolutional Encoder Analyser 2.0/EncoderProgram.cpp) - **A custom Class designed to Handle Processing and Trellis Diagram Creation.**
 - [`EncoderData`](/Convolutional Encoder Analyser 2.0/EncoderData.h) - **A data Class designed to Handle the Custom Data Format.**
 - [`Input.txt`](/Convolutional Encoder Analyser 2.0/Input.txt) - **A text File where the User can Enter an Input Sequence.**
